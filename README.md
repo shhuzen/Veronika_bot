@@ -23,7 +23,7 @@ git clone https://github.com/shhuzen/Veronika_bot
 ```
 
 ```bash
-cd 123
+cd Veronika_bot
 ```
 
 ```bash
