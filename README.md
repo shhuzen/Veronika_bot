@@ -6,9 +6,9 @@
 
 ---
 
-#### **🪄 `Instalación manual por termux`**
+#### **🪄 `Ручная установка через Termux`**
 
-> copie y peguen en termux uno por uno
+> Скопируйте и вставьте команды в Termux по очереди
 
 ```bash
 termux-setup-storage
@@ -34,7 +34,7 @@ yarn install && npm install
 npm start
 ```
 
-> **`⛄ Versión Actual: 2.0.0`**
+> **`⛄Текущая версия: 2.0.0`**
 
 ---
 
@@ -55,7 +55,7 @@ npm start
 
 ---
 
-### **`🔗 OBTEN LOS ENLACES`**
+### **`🔗 ПОЛУЧИТЬ ССЫЛКИ`**
 
 <summary>
   
@@ -69,7 +69,7 @@ npm start
 
 ---
 
-### **`🌠 Click en la imagen para obtener termux🌠`**
+### **`🌠 Нажмите на изображение, чтобы скачать Termux 🌠`**
 
 <a
 href="https://www.mediafire.com/file/3hsvi3xkpq3a64o/termux_118.a"><img src="https://qu.ax/finc.jpg" height="125px"></a>
