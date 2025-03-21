@@ -1,4 +1,4 @@
-# Lynx-Ai
+# Lynx-Ai Veronika_bot
 
 ---
 
