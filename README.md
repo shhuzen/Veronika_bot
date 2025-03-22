@@ -33,7 +33,39 @@ yarn install && npm install
 npm start
 ```
 
-> **`⛄Текущая версия: 2.0.0`**
+---
+
+#### **🪄 `Если уже скачан бот то просто обновляем его чтобы не удалить настройки бота Termux`**
+
+> Скопируйте и вставьте команды в Termux по очереди
+
+```bash
+termux-setup-storage
+```
+
+```bash
+apt update && apt upgrade && pkg install -y git nodejs ffmpeg imagemagick yarn
+```
+
+```bash
+if [ -d "Veronika_bot" ]; then
+    cd Veronika_bot
+    git pull origin main
+else
+    git clone https://github.com/shhuzen/Veronika_bot
+    cd Veronika_bot
+fi
+```
+
+```bash
+yarn install && npm install
+```
+
+```bash
+npm start
+```
+
+> **`⛄Текущая версия: 2.0.1`**
 
 <!-- ---
 
