@@ -48,13 +48,7 @@ apt update && apt upgrade && pkg install -y git nodejs ffmpeg imagemagick yarn
 ```
 
 ```bash
-if [ -d "Veronika_bot" ]; then
-    cd Veronika_bot
-    git pull origin main
-else
-    git clone https://github.com/shhuzen/Veronika_bot
-    cd Veronika_bot
-fi
+if [ -d "Veronika_bot" ]; then cd Veronika_bot && git pull origin main; else git clone https://github.com/shhuzen/Veronika_bot && cd Veronika_bot; fi
 ```
 
 ```bash
